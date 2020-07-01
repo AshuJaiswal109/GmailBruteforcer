@@ -9,11 +9,11 @@ Brute forcing email, or more specifically, SMTP, also known as the Simple Mail T
 
 commands:
 
-git clone https://github.com/AshuJaiswal109/GmailBruteforcer
+1. git clone https://github.com/AshuJaiswal109/GmailBruteforcer
 
-chmod +x GmailBruteforcer.py
+2. sudo chmod +x GmailBruteforcer.py
 
-python GmailBruteforcer.py
+3. sudo python GmailBruteforcer.py
 
 Then enter the target email id then mention the path of password dictionary.
 
