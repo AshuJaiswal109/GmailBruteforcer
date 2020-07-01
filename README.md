@@ -8,9 +8,13 @@ Email brute forcing tool is a simple python based Password cracking tool which i
 Brute forcing email, or more specifically, SMTP, also known as the Simple Mail Transfer Protocol. It is your standard protocol for sending electronic mail.
 
 commands:
+
 git clone https://github.com/AshuJaiswal109/GmailBruteforcer
+
 chmod +x GmailBruteforcer.py
+
 python GmailBruteforcer.py
+
 Then enter the target email id then mention the path of password dictionary.
 
 note : most of the time Gmail blocks the less secure app access. so, this GmailBruteforcer tools only works when less secure apps to access Gmail is enabled.
@@ -19,8 +23,11 @@ steps to enabling less secure apps to access Gmail -
 
 Open your Google Admin console (admin.google.com).
 Click Security > Basic settings.
+
 Under Less secure apps, select Go to settings for less secure apps.
+
 In the subwindow, select the Enforce access to less secure apps for all users radio button.
+
 (You can also use the Allow users to manage their access to less secure apps, but don't forget to turn on the less secure apps option in users settings then!)
 Click the Save button.
 
